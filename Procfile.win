@@ -1,0 +1,2 @@
+#This is a comment
+web:    java -cp target/classes;target/dependency/* Main
